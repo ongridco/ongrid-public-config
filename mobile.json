@@ -22,7 +22,7 @@
     "prod": {
         "ios": {
             "min_version": "2.2.4",
-            "current_version": "2.2.4"
+            "current_version": "2.2.5"
         },
         "android": {
             "min_version": "2.2.4",
