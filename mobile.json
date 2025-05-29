@@ -1,32 +1,32 @@
 {
     "dev": {
         "ios": {
-            "min_version": "2.2.7",
-            "current_version": "2.2.7"
+            "min_version": "2.2.9",
+            "current_version": "2.2.9"
         },
         "android": {
-            "min_version": "2.2.7",
-            "current_version": "2.2.7"
+            "min_version": "2.2.9",
+            "current_version": "2.2.9"
         }
     },
     "demo": {
         "ios": {
-            "min_version": "2.2.7",
-            "current_version": "2.2.7"
+            "min_version": "2.2.9",
+            "current_version": "2.2.9"
         },
         "android": {
-            "min_version": "2.2.7",
-            "current_version": "2.2.7"
+            "min_version": "2.2.9",
+            "current_version": "2.2.9"
         }
     },
     "prod": {
         "ios": {
-            "min_version": "2.2.7",
-            "current_version": "2.2.7"
+            "min_version": "2.2.9",
+            "current_version": "2.2.9"
         },
         "android": {
-            "min_version": "2.2.7",
-            "current_version": "2.2.7"
+            "min_version": "2.2.9",
+            "current_version": "2.2.9"
         }
     }
 }
