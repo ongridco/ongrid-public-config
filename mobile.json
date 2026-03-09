@@ -11,12 +11,12 @@
     },
     "demo": {
         "ios": {
-            "min_version": "3.3.3",
-            "current_version": "3.3.3"
+            "min_version": "3.3.4",
+            "current_version": "3.3.4"
         },
         "android": {
-            "min_version": "3.3.3",
-            "current_version": "3.3.3"
+            "min_version": "3.3.4",
+            "current_version": "3.3.4"
         }
     },
     "prod": {
