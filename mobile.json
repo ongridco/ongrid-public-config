@@ -11,22 +11,22 @@
     },
     "demo": {
         "ios": {
-            "min_version": "3.3.4",
-            "current_version": "3.3.4"
+            "min_version": "3.3.6",
+            "current_version": "3.3.6"
         },
         "android": {
-            "min_version": "3.3.4",
-            "current_version": "3.3.4"
+            "min_version": "3.3.6",
+            "current_version": "3.3.6"
         }
     },
     "prod": {
         "ios": {
-            "min_version": "3.3.4",
-            "current_version": "3.3.4"
+            "min_version": "3.3.6",
+            "current_version": "3.3.6"
         },
         "android": {
-            "min_version": "3.3.4",
-            "current_version": "3.3.4"
+            "min_version": "3.3.6",
+            "current_version": "3.3.6"
         }
     }
 }
