@@ -1,0 +1,1972 @@
+[
+    {
+        "countryName": "Afghanistan",
+        "countryCode": "AF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AF.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Åland Islands",
+        "countryCode": "AX",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AX.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Albania",
+        "countryCode": "AL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AL.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Algeria",
+        "countryCode": "DZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/DZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "American Samoa",
+        "countryCode": "AS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AS.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Andorra",
+        "countryCode": "AD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AD.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Angola",
+        "countryCode": "AO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Anguilla",
+        "countryCode": "AI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AI.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Antarctica",
+        "countryCode": "AQ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AQ.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Antigua & Barbuda",
+        "countryCode": "AG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Argentina",
+        "countryCode": "AR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Armenia",
+        "countryCode": "AM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Aruba",
+        "countryCode": "AW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AW.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Australia",
+        "countryCode": "AU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AU.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Austria",
+        "countryCode": "AT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AT.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Azerbaijan",
+        "countryCode": "AZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bahamas",
+        "countryCode": "BS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BS.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bahrain",
+        "countryCode": "BH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BH.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Bangladesh",
+        "countryCode": "BD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BD.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Barbados",
+        "countryCode": "BB",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BB.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Belarus",
+        "countryCode": "BY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Belgium",
+        "countryCode": "BE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Belize",
+        "countryCode": "BZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Benin",
+        "countryCode": "BJ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BJ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bermuda",
+        "countryCode": "BM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BM.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Bhutan",
+        "countryCode": "BT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BT.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bolivia",
+        "countryCode": "BO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bosnia & Herzegovina",
+        "countryCode": "BA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BA.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Botswana",
+        "countryCode": "BW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bouvet Island",
+        "countryCode": "BV",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BV.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Brazil",
+        "countryCode": "BR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "British Indian Ocean Territory",
+        "countryCode": "IO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IO.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "British Virgin Islands",
+        "countryCode": "VG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VG.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Brunei",
+        "countryCode": "BN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Bulgaria",
+        "countryCode": "BG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BG.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Burkina Faso",
+        "countryCode": "BF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BF.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Burundi",
+        "countryCode": "BI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BI.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Cambodia",
+        "countryCode": "KH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KH.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Cameroon",
+        "countryCode": "CM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Canada",
+        "countryCode": "CA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CA.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Cape Verde",
+        "countryCode": "CV",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CV.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Caribbean Netherlands",
+        "countryCode": "BQ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BQ.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Cayman Islands",
+        "countryCode": "KY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KY.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Central African Republic",
+        "countryCode": "CF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CF.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Chad",
+        "countryCode": "TD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TD.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Chile",
+        "countryCode": "CL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CL.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "China",
+        "countryCode": "CN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Christmas Island",
+        "countryCode": "CX",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CX.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Cocos (Keeling) Islands",
+        "countryCode": "CC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CC.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Colombia",
+        "countryCode": "CO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Comoros",
+        "countryCode": "KM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Congo - Brazzaville",
+        "countryCode": "CG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Congo - Kinshasa",
+        "countryCode": "CD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CD.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Cook Islands",
+        "countryCode": "CK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CK.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Costa Rica",
+        "countryCode": "CR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Côte d’Ivoire",
+        "countryCode": "CI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CI.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Croatia",
+        "countryCode": "HR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/HR.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Cuba",
+        "countryCode": "CU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CU.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Curaçao",
+        "countryCode": "CW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CW.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Cyprus",
+        "countryCode": "CY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CY.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Czechia",
+        "countryCode": "CZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CZ.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Denmark",
+        "countryCode": "DK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/DK.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Djibouti",
+        "countryCode": "DJ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/DJ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Dominica",
+        "countryCode": "DM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/DM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Dominican Republic",
+        "countryCode": "DO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/DO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Ecuador",
+        "countryCode": "EC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/EC.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Egypt",
+        "countryCode": "EG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/EG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "El Salvador",
+        "countryCode": "SV",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SV.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Equatorial Guinea",
+        "countryCode": "GQ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GQ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Eritrea",
+        "countryCode": "ER",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ER.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Estonia",
+        "countryCode": "EE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/EE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Eswatini",
+        "countryCode": "SZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SZ.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Ethiopia",
+        "countryCode": "ET",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ET.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Falkland Islands",
+        "countryCode": "FK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/FK.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Faroe Islands",
+        "countryCode": "FO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/FO.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Fiji",
+        "countryCode": "FJ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/FJ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Finland",
+        "countryCode": "FI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/FI.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "France",
+        "countryCode": "FR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/FR.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "French Guiana",
+        "countryCode": "GF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GF.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "French Polynesia",
+        "countryCode": "PF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PF.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "French Southern Territories",
+        "countryCode": "TF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TF.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Gabon",
+        "countryCode": "GA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Gambia",
+        "countryCode": "GM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Georgia",
+        "countryCode": "GE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Germany",
+        "countryCode": "DE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/DE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Ghana",
+        "countryCode": "GH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GH.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Gibraltar",
+        "countryCode": "GI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GI.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Greece",
+        "countryCode": "GR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GR.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Greenland",
+        "countryCode": "GL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GL.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Grenada",
+        "countryCode": "GD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GD.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Guadeloupe",
+        "countryCode": "GP",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GP.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Guam",
+        "countryCode": "GU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GU.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Guatemala",
+        "countryCode": "GT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GT.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Guernsey",
+        "countryCode": "GG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GG.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Guinea",
+        "countryCode": "GN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Guinea-Bissau",
+        "countryCode": "GW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Guyana",
+        "countryCode": "GY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Haiti",
+        "countryCode": "HT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/HT.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Heard & McDonald Islands",
+        "countryCode": "HM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/HM.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Honduras",
+        "countryCode": "HN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/HN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Hong Kong SAR China",
+        "countryCode": "HK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/HK.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Hungary",
+        "countryCode": "HU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/HU.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Iceland",
+        "countryCode": "IS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IS.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "India",
+        "countryCode": "IN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Indonesia",
+        "countryCode": "ID",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ID.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Iran",
+        "countryCode": "IR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Iraq",
+        "countryCode": "IQ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IQ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Ireland",
+        "countryCode": "IE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Isle of Man",
+        "countryCode": "IM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IM.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Israel",
+        "countryCode": "IL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IL.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Italy",
+        "countryCode": "IT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/IT.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Jamaica",
+        "countryCode": "JM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/JM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Japan",
+        "countryCode": "JP",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/JP.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Jersey",
+        "countryCode": "JE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/JE.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Jordan",
+        "countryCode": "JO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/JO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Kazakhstan",
+        "countryCode": "KZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Kenya",
+        "countryCode": "KE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KE.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Kiribati",
+        "countryCode": "KI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KI.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Kuwait",
+        "countryCode": "KW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Kyrgyzstan",
+        "countryCode": "KG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Laos",
+        "countryCode": "LA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Latvia",
+        "countryCode": "LV",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LV.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Lebanon",
+        "countryCode": "LB",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LB.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Lesotho",
+        "countryCode": "LS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LS.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Liberia",
+        "countryCode": "LR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Libya",
+        "countryCode": "LY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Liechtenstein",
+        "countryCode": "LI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LI.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Lithuania",
+        "countryCode": "LT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LT.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Luxembourg",
+        "countryCode": "LU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LU.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Macao SAR China",
+        "countryCode": "MO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Madagascar",
+        "countryCode": "MG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Malawi",
+        "countryCode": "MW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Malaysia",
+        "countryCode": "MY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Maldives",
+        "countryCode": "MV",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MV.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Mali",
+        "countryCode": "ML",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ML.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Malta",
+        "countryCode": "MT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MT.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Marshall Islands",
+        "countryCode": "MH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MH.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Martinique",
+        "countryCode": "MQ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MQ.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Mauritania",
+        "countryCode": "MR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Mauritius",
+        "countryCode": "MU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MU.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Mayotte",
+        "countryCode": "YT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/YT.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Mexico",
+        "countryCode": "MX",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MX.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Micronesia",
+        "countryCode": "FM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/FM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Moldova",
+        "countryCode": "MD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MD.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Monaco",
+        "countryCode": "MC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MC.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Mongolia",
+        "countryCode": "MN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Montenegro",
+        "countryCode": "ME",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ME.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Montserrat",
+        "countryCode": "MS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MS.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Morocco",
+        "countryCode": "MA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MA.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Mozambique",
+        "countryCode": "MZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MZ.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Myanmar (Burma)",
+        "countryCode": "MM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Namibia",
+        "countryCode": "NA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Nauru",
+        "countryCode": "NR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Nepal",
+        "countryCode": "NP",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NP.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Netherlands",
+        "countryCode": "NL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NL.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "New Caledonia",
+        "countryCode": "NC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NC.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "New Zealand",
+        "countryCode": "NZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Nicaragua",
+        "countryCode": "NI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NI.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Niger",
+        "countryCode": "NE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NE.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Nigeria",
+        "countryCode": "NG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Niue",
+        "countryCode": "NU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NU.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Norfolk Island",
+        "countryCode": "NF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NF.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "North Korea",
+        "countryCode": "KP",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KP.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "North Macedonia",
+        "countryCode": "MK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MK.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Northern Mariana Islands",
+        "countryCode": "MP",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MP.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Norway",
+        "countryCode": "NO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/NO.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Oman",
+        "countryCode": "OM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/OM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Pakistan",
+        "countryCode": "PK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PK.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Palau",
+        "countryCode": "PW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Palestinian Territories",
+        "countryCode": "PS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PS.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Panama",
+        "countryCode": "PA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Papua New Guinea",
+        "countryCode": "PG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Paraguay",
+        "countryCode": "PY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Peru",
+        "countryCode": "PE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PE.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Philippines",
+        "countryCode": "PH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PH.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Pitcairn Islands",
+        "countryCode": "PN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PN.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Poland",
+        "countryCode": "PL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PL.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Portugal",
+        "countryCode": "PT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PT.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Puerto Rico",
+        "countryCode": "PR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PR.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Qatar",
+        "countryCode": "QA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/QA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Réunion",
+        "countryCode": "RE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/RE.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Romania",
+        "countryCode": "RO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/RO.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Russia",
+        "countryCode": "RU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/RU.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Rwanda",
+        "countryCode": "RW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/RW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Samoa",
+        "countryCode": "WS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/WS.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "San Marino",
+        "countryCode": "SM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SM.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "São Tomé & Príncipe",
+        "countryCode": "ST",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ST.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Saudi Arabia",
+        "countryCode": "SA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Senegal",
+        "countryCode": "SN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Serbia",
+        "countryCode": "RS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/RS.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "Seychelles",
+        "countryCode": "SC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SC.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Sierra Leone",
+        "countryCode": "SL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SL.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Singapore",
+        "countryCode": "SG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SG.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Sint Maarten",
+        "countryCode": "SX",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SX.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Slovakia",
+        "countryCode": "SK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SK.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Slovenia",
+        "countryCode": "SI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SI.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Solomon Islands",
+        "countryCode": "SB",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SB.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Somalia",
+        "countryCode": "SO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "South Africa",
+        "countryCode": "ZA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ZA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "South Georgia & South Sandwich Islands",
+        "countryCode": "GS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GS.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "South Korea",
+        "countryCode": "KR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "South Sudan",
+        "countryCode": "SS",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SS.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ES.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Sri Lanka",
+        "countryCode": "LK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LK.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "St. Barthélemy",
+        "countryCode": "BL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/BL.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "St. Helena",
+        "countryCode": "SH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SH.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "St. Kitts & Nevis",
+        "countryCode": "KN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/KN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "St. Lucia",
+        "countryCode": "LC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/LC.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "St. Martin",
+        "countryCode": "MF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/MF.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "St. Pierre & Miquelon",
+        "countryCode": "PM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/PM.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "St. Vincent & Grenadines",
+        "countryCode": "VC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VC.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Sudan",
+        "countryCode": "SD",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SD.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Suriname",
+        "countryCode": "SR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Svalbard & Jan Mayen",
+        "countryCode": "SJ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SJ.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Sweden",
+        "countryCode": "SE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Switzerland",
+        "countryCode": "CH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/CH.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Syria",
+        "countryCode": "SY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/SY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Taiwan",
+        "countryCode": "TW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Tajikistan",
+        "countryCode": "TJ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TJ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Tanzania",
+        "countryCode": "TZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Thailand",
+        "countryCode": "TH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TH.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Timor-Leste",
+        "countryCode": "TL",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TL.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Togo",
+        "countryCode": "TG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Tokelau",
+        "countryCode": "TK",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TK.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Tonga",
+        "countryCode": "TO",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TO.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Trinidad & Tobago",
+        "countryCode": "TT",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TT.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Tunisia",
+        "countryCode": "TN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Turkey",
+        "countryCode": "TR",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TR.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Turkmenistan",
+        "countryCode": "TM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Turks & Caicos Islands",
+        "countryCode": "TC",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TC.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Tuvalu",
+        "countryCode": "TV",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/TV.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "U.S. Outlying Islands",
+        "countryCode": "UM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/UM.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "U.S. Virgin Islands",
+        "countryCode": "VI",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VI.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Uganda",
+        "countryCode": "UG",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/UG.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Ukraine",
+        "countryCode": "UA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/UA.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "United Arab Emirates",
+        "countryCode": "AE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/AE.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD"
+        ]
+    },
+    {
+        "countryName": "United Kingdom",
+        "countryCode": "GB",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/GB.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+        //"documentTypes": ["PASSPORT", "DRIVERS_LICENSE"]
+    },
+    {
+        "countryName": "United States",
+        "countryCode": "US",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/US.svg",
+        "documentTypes": [
+            "PASSPORT",
+            "IDCARD",
+            "DRIVERS_LICENSE"
+        ]
+    },
+    {
+        "countryName": "Uruguay",
+        "countryCode": "UY",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/UY.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Uzbekistan",
+        "countryCode": "UZ",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/UZ.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Vanuatu",
+        "countryCode": "VU",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VU.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Vatican City",
+        "countryCode": "VA",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VA.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Venezuela",
+        "countryCode": "VE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VE.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Vietnam",
+        "countryCode": "VN",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/VN.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Wallis & Futuna",
+        "countryCode": "WF",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/WF.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Western Sahara",
+        "countryCode": "EH",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/EH.svg",
+        "documentTypes": []
+    },
+    {
+        "countryName": "Yemen",
+        "countryCode": "YE",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/YE.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Zambia",
+        "countryCode": "ZM",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ZM.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+    {
+        "countryName": "Zimbabwe",
+        "countryCode": "ZW",
+        "flagPath": "https://ongrid-storage-public-dev.s3.eu-west-1.amazonaws.com/countries/ZW.svg",
+        "documentTypes": [
+            "PASSPORT"
+        ]
+    },
+]
