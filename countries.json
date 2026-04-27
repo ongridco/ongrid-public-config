@@ -1873,7 +1873,6 @@
         "documentTypes": [
             "PASSPORT"
         ]
-        //"documentTypes": ["PASSPORT", "DRIVERS_LICENSE"]
     },
     {
         "countryName": "United States",
@@ -1968,5 +1967,5 @@
         "documentTypes": [
             "PASSPORT"
         ]
-    },
+    }
 ]
