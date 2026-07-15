@@ -21,7 +21,7 @@
     },
     "prod": {
         "ios": {
-            "min_version": "3.3.9",
+            "min_version": "3.4.2",
             "current_version": "3.4.2"
         },
         "android": {
