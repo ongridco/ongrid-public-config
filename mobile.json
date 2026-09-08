@@ -25,8 +25,8 @@
             "current_version": "3.4.5"
         },
         "android": {
-            "min_version": "3.4.5",
-            "current_version": "3.4.5"
+            "min_version": "3.4.6",
+            "current_version": "3.4.6"
         }
     }
 }
